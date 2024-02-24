@@ -13,9 +13,6 @@ ChitNest is a responsive static page project that emulates the aesthetic of a Di
 
 - **Easy Customization:** Tailwind CSS allows for easy customization and extension of styles.
 
-## 🎨 Preview
-
-![ChitNest Preview](cdiscord.png)
 
 ## 🚀 Getting Started
 
