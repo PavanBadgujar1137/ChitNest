@@ -1,6 +1,5 @@
 # 🚀 ChitNest - Discord Clone Static Page
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-netlify-status-badge)](https://app.netlify.com/sites/chitnest/deploys)
 
 ChitNest is a responsive static page project that emulates the aesthetic of a Discord chat interface. It is crafted with HTML for structure and Tailwind CSS for styling.
 
@@ -16,7 +15,7 @@ ChitNest is a responsive static page project that emulates the aesthetic of a Di
 
 ## 🎨 Preview
 
-![ChitNest Preview](link_to_project_screenshot)
+![ChitNest Preview](https://ibb.co/QdyDkjS)
 
 ## 🚀 Getting Started
 
