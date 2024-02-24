@@ -15,7 +15,7 @@ ChitNest is a responsive static page project that emulates the aesthetic of a Di
 
 ## 🎨 Preview
 
-![ChitNest Preview](https://ibb.co/QdyDkjS)
+![ChitNest Preview](cdiscord.png)
 
 ## 🚀 Getting Started
 
