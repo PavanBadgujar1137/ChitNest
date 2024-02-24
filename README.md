@@ -23,8 +23,17 @@ To experience ChitNest locally, follow these steps:
    ```bash
    git clone https://github.com/PavanBadgujar1137/ChitNest.git
 
-2. **Navigate to the Project Directory: cd ChitNest **
+2. **Navigate to the Project Directory:**
 
-3. **Install Dependencies: npm install**
+   ```bash
+    cd ChitNest 
 
-4.**Start the Development Server: npm start**
+3. **Install Dependencies:**
+
+   ```bash
+   npm install
+
+4.**Start the Development Server:**
+
+  ```bash
+  npm start
